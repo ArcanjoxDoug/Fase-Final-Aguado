@@ -1,0 +1,13 @@
+create database loja_douglas;
+use loja_douglas;
+
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,   
+    nome VARCHAR(50) NOT NULL, 
+    email VARCHAR(100) NOT NULL,    
+	telefone VARCHAR(15) NOT NULL
+   );
+	ALTER TABLE usuarios 
+	ADD senha VARCHAR(100) NOT NULL;
+    SHOW TABLES;
+   SELECT * FROM `loja_douglas`.usuarios;
