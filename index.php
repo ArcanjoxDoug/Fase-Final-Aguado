@@ -26,7 +26,7 @@
                 <a class="links" href="#Teclados">Teclado</a>
                 <a class="links" href="#Guitarras">Guitarra</a>
                 <a class="links" href="#Acessorios">Acessórios</a>
-                <a class="links" href="sistema.php">Sistema</a>
+                <a class="links" href="login.php">Sistema</a>
 
             </div>
             <form class="login" action="cadastro.php" method="post">
@@ -40,7 +40,7 @@
                 <a class="links-m" href="#Teclados">Teclado</a>
                 <a class="links-m" href="#Guitarras">Guitarra</a>
                 <a class="links-m" href="#Acessorios">Acessórios</a>
-                <a class="links" href="sistema.php">Sistema</a>
+                <a class="links" href="login.php">Sistema</a>
 
             </div>
         </aside>
